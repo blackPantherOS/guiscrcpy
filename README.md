@@ -9,6 +9,7 @@
 [![Get guiscrcpy AppImage](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.srevinsaju.me%2Fget-appimage%2Fguiscrcpy%2Fshields.json)](https://www.srevinsaju.me/get-appimage/guiscrcpy/)
 
 [![AUR version](https://img.shields.io/aur/version/guiscrcpy?label=Arch%20Linux%20Package&style=flat-square)](https://aur.archlinux.org/packages/guiscrcpy)
+[![bP version](https://img.shields.io/badge/blackPanther%20OS-4.7.3--0.1-blue)](https://github.com/blackPantherOS/guiscrcpy)
 [![guiscrcpy](https://snapcraft.io//guiscrcpy/badge.svg)](https://snapcraft.io/guiscrcpy)
 [![GitHub All Releases](https://img.shields.io/github/downloads/srevinsaju/guiscrcpy/total?style=flat-square)](https://github.com/srevinsaju/guiscrcpy/releases)
 [![Discord](https://img.shields.io/discord/679746670422261783?label=chat%20on%20Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/mFqj3a5)
